@@ -1,0 +1,32 @@
+what is internet and how it basically works ?
+
+internet defines interconnected networks of computers around the world
+
+server is just a system which stays online forever and solves the query or other system's around the world or in other words give the data requested by the other computers using internet and that computer which is requesting the data from the server is known as client
+
+evrey system in the world Whether it is client or server it always has a unique ip address
+
+when a client computer Request a data over internet the first call will be sent to the isp or Internet service provider
+then it shall Forward it to the dns ( domain name system ) which stores the ip address of the domian name of everything we see on internet today .
+in the last the dns returns the ip address of the website the user requested onto the usrs's computer which enable the user to directly Communicate with that Particular server and ask for whatever data he wants to Retrieve.
+
+And in order to check the ip address of a Particular website, we can just visit nslookup.io
+
+----- Web Development -----
+
+when we open a website on a browser it just means that we are sending a Request to the server of that particular website, after that, the server will response to our request, in form of three Technologies known as HTML, CSS, and Java script, then our browser will convert these technologies into a website. We finally observe on our screen. And this cycle or process is known as request-response cycle.
+
+Sure! Here are simple definitions for each:
+
+HTML (HyperText Markup Language): It's the basic building block of web pages. HTML is like the structure of a house; it tells the web browser what elements (like headings, paragraphs, images, and links) should be on the page.
+
+CSS (Cascading Style Sheets): Once you have the structure with HTML, CSS is used to make it look good. It's like painting and decorating the house; it controls the colors, fonts, layout, and overall appearance of the web page.
+
+JavaScript: This makes the web page interactive. Think of it as the electrical system in the house; it adds functionality like buttons that work when clicked, forms that can be filled out, and dynamic content that changes based on user actions.
+
+So, HTML builds the page, CSS styles it, and JavaScript makes it interactive.
+
+and these three
+Altogether or somewhat known as front-end technologies and the server is basically in short known as back-end part Of the website.
+
+rendering basically means chaning the form of how it was looking Earlier and how it looks now
